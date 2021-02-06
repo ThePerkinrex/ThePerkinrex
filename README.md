@@ -1,7 +1,7 @@
-### Hi there 👋
 
 <!--
 **ThePerkinrex/ThePerkinrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://github.com/ThePerkinrex">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ThePerkinrex&count_private=true&show_icons=true&theme=nord" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePerkinrex&layout=compact&theme=nord" />
+</a>
