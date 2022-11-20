@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ThePerkinrex">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=theperkinrex&theme=dark&hide_border=true&background=36393F" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePerkinrex&count_private=true&show_icons=true&theme=slateorange&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ThePerkinrex">
